@@ -8,7 +8,6 @@ export const StatisticsList = styled.ul`
 
 export const StatisticsItem = styled.li`
     display: flex;
-    align-items: left;
     font-size: 32px;
     padding: 5px;
 `;
